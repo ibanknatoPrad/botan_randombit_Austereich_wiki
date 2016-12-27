@@ -68,6 +68,10 @@ Commercial Software
 
 * PSPDFKit for iOS https://pspdfkit.com/acknowledgements/ios/
 
+* CA Agile Requirements Designer (https://docops.ca.com/ca-agile-requirements-designer/2-0/en/release-notes/acknowledgments-and-license-agreements)
+
+* A.O.M. Audio Plugins (http://doc.aom-factory.jp/plugins/manual.pdf)
+
 * Rockwell Automation http://literature.rockwellautomation.com/idc/groups/literature/documents/rm/1756-rm101_-en-p.pdf
 
 * Mazda Infotainment system http://mazdaenduseragreements-copyrights.com/files/LegalDisclosure.pdf
