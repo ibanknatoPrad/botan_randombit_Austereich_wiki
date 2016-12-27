@@ -4,6 +4,8 @@ a link and description of yours if you like.
 Open Source Software
 --------------------------
 
+* libQtShadowsocks https://github.com/shadowsocks/libQtShadowsocks
+
 * Monotone a free distributed version control system, uses botan for
   RSA authentication, content hashing, and message authentication.
   http://monotone.ca/
@@ -57,6 +59,20 @@ Open Source Software
 
 Commercial Software
 --------------------------------------
+
+* Shimmercat HTTP/2 server https://www.shimmercat.com/en/info/open-source/
+
+* Bosch Video Managment System http://resource.boschsecurity.com/documents/Bosch_VMS_Open_Sourc_Application_note_enUS_20710840843.pdf
+
+* Balabit Shell Control Box https://www.balabit.com/documents/scb-latest-guides/en/scb-guide-install/html/appendix-licenses.html
+
+* PSPDFKit for iOS https://pspdfkit.com/acknowledgements/ios/
+
+* Rockwell Automation http://literature.rockwellautomation.com/idc/groups/literature/documents/rm/1756-rm101_-en-p.pdf
+
+* Mazda Infotainment system http://mazdaenduseragreements-copyrights.com/files/LegalDisclosure.pdf
+
+* IBM Netezza 
 
 * Hulu Desktop http://www.hulu.com/labs/hulu-desktop
   http://download.hulu.com/HuluDesktop_ThirdPartyLicenses.txt
