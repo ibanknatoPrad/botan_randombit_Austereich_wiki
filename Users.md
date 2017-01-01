@@ -100,6 +100,10 @@ Commercial Software
 * E.V.E. Paradox http://www.entropicsoftware.com/eve/eve.html, a
   suite of games for Windows.
 
+* Flume http://SaratogaData.com, a tool to securely and accurately move 
+  your distributed data at unprecedented speeds, uses Botan for encryption
+  and hashing.
+
 Research Projects
 -----------------------------------
 
