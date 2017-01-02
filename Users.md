@@ -104,6 +104,9 @@ Commercial Software
   your distributed data at unprecedented speeds, uses Botan for encryption
   and hashing.
 
+* Rohde & Schwarz Cybersecurity https://cybersecurity.rohde-schwarz.com,
+  a German security software company, uses Botan in some of its products.
+
 Research Projects
 -----------------------------------
 
