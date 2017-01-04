@@ -4,7 +4,12 @@ a link and description of yours if you like.
 Open Source Software
 --------------------------
 
-* libQtShadowsocks https://github.com/shadowsocks/libQtShadowsocks
+* Kaa an open-source IoT platform uses Botan in their C++ SDK
+  (https://github.com/kaaproject/kaa)
+
+* libQtShadowsocks and shadowsocks-qt5 are a C++ GUI for shadowsocks
+  proxy system. (https://github.com/shadowsocks/libQtShadowsocks,
+   https://github.com/shadowsocks/shadowsocks-qt5)
 
 * Monotone a free distributed version control system, uses botan for
   RSA authentication, content hashing, and message authentication.
