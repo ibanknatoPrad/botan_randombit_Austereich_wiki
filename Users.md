@@ -62,6 +62,8 @@ Open Source Software
 * VNCcrack http://www.randombit.net/code/vnccrack/
   is a password cracker for the VNC authentication/response protocol.
 
+* Biboumi https://biboumi.louiz.org/ is an IRC gateway for XMPP.
+
 Commercial Software
 --------------------------------------
 
