@@ -64,6 +64,8 @@ Open Source Software
 
 * Biboumi https://biboumi.louiz.org/ is an IRC gateway for XMPP.
 
+* RNP (https://github.com/riboseinc/rnp) is an OpenPGP library written in C.
+
 Commercial Software
 --------------------------------------
 
