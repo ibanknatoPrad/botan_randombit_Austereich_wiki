@@ -26,6 +26,8 @@ Open Source Software
 
 * BIND 10 http://www.isc.org/bind10
 
+* cppssh a C++11 SSH library https://github.com/cdesjardins/cppssh
+
 * NetSieben's http://netsieben.com/products/ssh/
   SSH library provides SSHv2 client connections for C++
   applications, using botan for the crypto. (GPL or commercial)
