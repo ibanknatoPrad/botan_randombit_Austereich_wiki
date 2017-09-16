@@ -22,6 +22,8 @@ Open Source Software
 * Qt Creator http://qt.nokia.com/products/developer-tools, an
   IDE for building Qt applications.
 
+* ISC KEA (http://kea.isc.org/docs/kea-guide.html#build-requirements)
+
 * BIND 10 http://www.isc.org/bind10
 
 * NetSieben's http://netsieben.com/products/ssh/
