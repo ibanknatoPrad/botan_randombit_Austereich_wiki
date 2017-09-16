@@ -85,7 +85,9 @@ Commercial Software
 
 * Mazda Infotainment system http://mazdaenduseragreements-copyrights.com/files/LegalDisclosure.pdf
 
-* IBM Netezza 
+* Panasonic UConnect (ftp://ftp.panasonic.com/automotive/legal/UConnect_for_FCA_MY18.pdf)
+
+* IBM Netezza (https://www.ibm.com/support/knowledgecenter/en/SSULQD_7.1.0/com.ibm.nz.sqltk.doc/r_sqlext_fpe_encrypt_decrypt.html)
 
 * Hulu Desktop http://www.hulu.com/labs/hulu-desktop
   http://download.hulu.com/HuluDesktop_ThirdPartyLicenses.txt
