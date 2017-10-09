@@ -73,6 +73,8 @@ Open Source Software
 Commercial Software
 --------------------------------------
 
+* 1qbit SDK (http://qdk.1qbit.com/documentation/requirements.html)
+
 * Shimmercat HTTP/2 server https://www.shimmercat.com/en/info/open-source/
 
 * Bosch Video Managment System http://resource.boschsecurity.com/documents/Bosch_VMS_Open_Sourc_Application_note_enUS_20710840843.pdf
