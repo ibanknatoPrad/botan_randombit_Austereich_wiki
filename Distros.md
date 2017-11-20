@@ -7,6 +7,7 @@ Some package distributions include Botan. However they are often out of date so 
 * Slackbuild - http://slackbuilds.org/result/?search=Botan
 * OpenBSD ports - http://ports.su/security/botan2
 * FreeBSD ports - https://www.freshports.org/security/botan2/ and http://www.freshports.org/security/botan110
+* NetBSD ports - http://ftp.netbsd.org/pub/pkgsrc/current/pkgsrc/security/botan-devel/README.html
 * Conan - https://github.com/bincrafters/conan-botan
 * Homebrew - http://brewformulas.org/Botan
 * T2 - http://t2sde.org/packages/botan.html
@@ -17,4 +18,3 @@ Some package distributions include Botan. However they are often out of date so 
 * Debian - http://packages.debian.org/search?keywords=libbotan
 * Ubuntu - http://packages.ubuntu.com/search?keywords=botan
 * MacPorts - http://www.macports.org/ports.php?by=name&substr=botan
-* NetBSD ports - http://ftp.netbsd.org/pub/pkgsrc/current/pkgsrc/security/botan-devel/README.html
