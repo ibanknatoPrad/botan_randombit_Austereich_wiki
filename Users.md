@@ -4,6 +4,8 @@ a link and description of yours if you like.
 Open Source Software
 --------------------------
 
+* NeoPG (https://neopg.io/) the "multiversal crypto engine", is an opinionated fork of GnuPG written in C++
+
 * Kaa an open-source IoT platform uses Botan in their C++ SDK
   (https://github.com/kaaproject/kaa)
 
