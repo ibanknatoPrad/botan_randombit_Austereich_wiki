@@ -11,6 +11,7 @@ Some package distributions include Botan. However they are often out of date so 
 * Conan - https://github.com/bincrafters/conan-botan
 * Homebrew - http://brewformulas.org/Botan
 * T2 - http://t2sde.org/packages/botan.html
+* Nix - https://github.com/NixOS/nixpkgs/tree/master/pkgs/development/libraries/botan
 
 ## 1.10 Only ##
 
