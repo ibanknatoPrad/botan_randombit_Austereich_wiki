@@ -5,6 +5,7 @@ Some package distributions include Botan. However they are often out of date so 
 * Gentoo - https://packages.gentoo.org/packages/dev-libs/botan
 * Arch - http://www.archlinux.org/packages/community/x86_64/botan/ and https://www.archlinux.org/packages/community/x86_64/botan1.10/
 * Slackbuild - http://slackbuilds.org/result/?search=Botan
+* Fedora - https://copr.fedorainfracloud.org/coprs/bkircher/botan2/ (unofficial package in review)
 * OpenBSD ports - http://ports.su/security/botan2
 * FreeBSD ports - https://www.freshports.org/security/botan2/ and http://www.freshports.org/security/botan110
 * NetBSD ports - http://ftp.netbsd.org/pub/pkgsrc/current/pkgsrc/security/botan-devel/README.html
