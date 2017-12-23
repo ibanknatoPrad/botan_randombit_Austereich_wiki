@@ -129,6 +129,9 @@ Commercial Software
 Research Projects
 -----------------------------------
 
+* "Efficient Implementation of Password-Based Authenticated Key Exchange from RLWE and Post-Quantum TLS"
+  (https://eprint.iacr.org/2017/1192) describes integrating a post-quantum secure PAKE scheme into Botan TLS
+
 * A Unified Approach to Intra-Domain Security
   http://www.csiir.ornl.gov/shue/research/securecom09.pdf
   describes a system by researches from Oak Ridge National Lab and
