@@ -1,11 +1,11 @@
-Some package distributions include Botan. However they are often out of date so use caution
+Some package distributions include Botan. However they are sometimes out of date, so use caution
 
 ## Supporting 2.x ##
 
 * Gentoo - https://packages.gentoo.org/packages/dev-libs/botan
-* Arch - http://www.archlinux.org/packages/community/x86_64/botan/ and https://www.archlinux.org/packages/community/x86_64/botan1.10/
+* Arch - http://www.archlinux.org/packages/community/x86_64/botan/
 * Slackbuild - http://slackbuilds.org/result/?search=Botan
-* Fedora - https://copr.fedorainfracloud.org/coprs/bkircher/botan2/ (unofficial package in review)
+* Debian - http://packages.debian.org/search?keywords=libbotan
 * OpenBSD ports - http://ports.su/security/botan2
 * FreeBSD ports - https://www.freshports.org/security/botan2/ and http://www.freshports.org/security/botan110
 * NetBSD ports - http://ftp.netbsd.org/pub/pkgsrc/current/pkgsrc/security/botan-devel/README.html
@@ -16,7 +16,7 @@ Some package distributions include Botan. However they are often out of date so 
 
 ## 1.10 Only ##
 
-* Fedora and EPEL - https://admin.fedoraproject.org/pkgdb/packages/botan
-* Debian - http://packages.debian.org/search?keywords=libbotan
+* Fedora and EPEL - https://admin.fedoraproject.org/pkgdb/packages/botan (v2 package currently in review - https://copr.fedorainfracloud.org/coprs/bkircher/botan2/)
+
 * Ubuntu - http://packages.ubuntu.com/search?keywords=botan
 * MacPorts - http://www.macports.org/ports.php?by=name&substr=botan
