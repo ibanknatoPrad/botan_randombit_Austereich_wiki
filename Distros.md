@@ -17,6 +17,5 @@ Some package distributions include Botan. However they are sometimes out of date
 ## 1.10 Only ##
 
 * Fedora and EPEL - https://admin.fedoraproject.org/pkgdb/packages/botan (v2 package currently in review - https://copr.fedorainfracloud.org/coprs/bkircher/botan2/)
-
 * Ubuntu - http://packages.ubuntu.com/search?keywords=botan
 * MacPorts - http://www.macports.org/ports.php?by=name&substr=botan
