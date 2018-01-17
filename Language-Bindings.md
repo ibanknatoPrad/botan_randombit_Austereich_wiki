@@ -11,5 +11,5 @@ Though Botan is written in C++ it is possible to use it from some other language
 * OCaml (https://github.com/randombit/botan-ocaml): in a very preliminary state
 
 ### Abandoned
-* Perl - Limited wrapper using Perl-XS and the C++ API (included in `src/contrib/perl-xs`). It is now deprecated and likely to be removed in a future release.
+* Perl - Limited wrapper using Perl-XS and the C++ API. Was included in `src/contrib/perl-xs` until 2.4, but was unmaintained.
 * Node.js (https://github.com/justinfreitag/node-botan) no updates in many years
