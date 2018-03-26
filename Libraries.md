@@ -1,4 +1,4 @@
-Here's a list of libraries that use or extend Botan or are relevant to cryptography in general. Feel free to add a link and description of yours if you like.
+Here's a list of libraries that use or extend Botan. Feel free to add a link and description of yours if you like.
 
 Networking
 --------------------------
@@ -8,7 +8,7 @@ Networking
 PKCS11
 ------------------
 
-* [SoftHSM](http://trac.opendnssec.org/wiki/SoftHSM) is an software implementation of a PKCS #11 token
+* [SoftHSM](https://www.opendnssec.org/softhsm) is an software implementation of a PKCS #11 token
 
 PGP
 ---------
