@@ -14,3 +14,8 @@ PGP
 ---------
 
 * [RNP](https://github.com/riboseinc/rnp) is an OpenPGP library written in C
+
+SSH
+-------
+
+* [cppssh](https://github.com/cdesjardins/cppssh) is a C++11 SSH library 
