@@ -1,4 +1,4 @@
-Here's a list of libraries that use or extend Botan. Feel free to add a link and description of yours if you like.
+Here's a list of libraries that use or extend Botan or are relevant to cryptography in general. Feel free to add a link and description of yours if you like.
 
 Networking
 --------------------------
