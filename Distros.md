@@ -7,6 +7,7 @@ Some package distributions include Botan. However they are sometimes out of date
 * [Alpine](https://pkgs.alpinelinux.org/package/edge/testing/x86_64/botan)
 * [Gentoo](https://packages.gentoo.org/packages/dev-libs/botan)
 * [Slackbuild](https://slackbuilds.org/result/?search=Botan)
+* [Void Linux](https://github.com/voidlinux/void-packages/tree/master/srcpkgs/botan)
 * [OpenBSD](http://ports.su/security/botan2)
 * [FreeBSD](https://www.freshports.org/security/botan2/)
 * [NetBSD](https://ftp.netbsd.org/pub/pkgsrc/current/pkgsrc/security/botan-devel/README.html)
