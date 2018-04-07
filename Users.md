@@ -75,6 +75,12 @@ Open Source Software
 Commercial Software
 --------------------------------------
 
+* VMware AirWatch (https://www.air-watch.com/downloads/open_source_license_AW-iOS-Content_4.9_GA.txt)
+
+* Cyclonis Password Manager (https://www.cyclonis.com/additional-terms-conditions-password-manager/)
+
+* EnFocus PDFReview (http://www.enfocus.com/manuals/UserGuide/PDFReview/01/en-us/common/rev/concept/co_rev_thirdpartylicense.html)
+
 * 1qbit SDK (http://qdk.1qbit.com/documentation/requirements.html)
 
 * Shimmercat HTTP/2 server https://www.shimmercat.com/en/info/open-source/
