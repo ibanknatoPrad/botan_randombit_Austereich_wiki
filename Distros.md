@@ -1,5 +1,7 @@
 Some package distributions include Botan. However they are sometimes out of date, so use caution
 
+* [Vcpkg](https://github.com/Microsoft/vcpkg/tree/master/ports/botan)
+* [Homebrew](http://brewformulas.org/Botan)
 * [Debian](https://packages.debian.org/search?keywords=libbotan)
 * [Ubuntu](https://packages.ubuntu.com/search?keywords=botan)
 * [Fedora](https://apps.fedoraproject.org/packages/botan2)
@@ -12,7 +14,5 @@ Some package distributions include Botan. However they are sometimes out of date
 * [FreeBSD](https://www.freshports.org/security/botan2/)
 * [NetBSD](https://ftp.netbsd.org/pub/pkgsrc/current/pkgsrc/security/botan-devel/README.html)
 * [Conan](https://github.com/bincrafters/conan-botan)
-* [Homebrew](http://brewformulas.org/Botan)
 * [T2](https://t2sde.org/packages/botan.html)
 * [Nix](https://github.com/NixOS/nixpkgs/tree/master/pkgs/development/libraries/botan)
-
