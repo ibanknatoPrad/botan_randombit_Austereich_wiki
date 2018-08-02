@@ -10,6 +10,7 @@ Though Botan is written in C++ it is possible to use it from some other language
 ### Experimental/Work In Progress
 * OCaml https://github.com/randombit/botan-ocaml
 
-### Now Abandoned
+### Abandoned
+* Adobe AIR (https://github.com/vpmedia/botan-crypto-ane)
 * Perl - Limited wrapper using Perl-XS and the C++ API. Was included in `src/contrib/perl-xs` until 2.4, but was unmaintained.
 * Node.js (https://github.com/justinfreitag/node-botan) no updates in many years
