@@ -1,164 +1,96 @@
-Botan has been used in all kinds of projects. Feel free to add
-a link and description of yours if you like.
+Botan has been used in all kinds of projects. Feel free to add a link and description of yours if you like.
 
 Open Source Software
 --------------------------
 
-* NeoPG (https://neopg.io/) the "multiversal crypto engine", is an opinionated fork of GnuPG written in C++
+* [strongSwan](https://www.strongswan.org/) IPsec software
 
-* Kaa an open-source IoT platform uses Botan in their C++ SDK
-  (https://github.com/kaaproject/kaa)
+* [Biboumi](https://biboumi.louiz.org/) is an IRC gateway for XMPP.
 
-* libQtShadowsocks and shadowsocks-qt5 are a C++ GUI for shadowsocks
-  proxy system. (https://github.com/shadowsocks/libQtShadowsocks,
-   https://github.com/shadowsocks/shadowsocks-qt5)
+* [RNP](https://github.com/riboseinc/rnp) is an OpenPGP library.
 
-* Monotone a free distributed version control system, uses botan for
-  RSA authentication, content hashing, and message authentication.
-  http://monotone.ca/
+* [NeoPG](https://neopg.io/) the "multiversal crypto engine", is an opinionated fork of GnuPG written in C++
 
-* SoftHSM http://trac.opendnssec.org/wiki/SoftHSM an open sourced
-  software PKCS #11 implementation, which is used as part of the
-  OpenDNSSEC http://www.opendnssec.org project.
+* [ISC KEA](http://kea.isc.org/docs/kea-guide.html) DHCP server
 
-* Qt Creator http://qt.nokia.com/products/developer-tools, an
-  IDE for building Qt applications.
+* [Kaa](https://github.com/kaaproject/kaa) is an open-source IoT platform
 
-* ISC KEA (http://kea.isc.org/docs/kea-guide.html#build-requirements)
+* [libQtShadowsocks](https://github.com/shadowsocks/libQtShadowsocks) and [shadowsocks-qt5](https://github.com/shadowsocks/shadowsocks-qt5) are a C++ GUI for shadowsocks proxy system
 
-* BIND 10 http://www.isc.org/bind10
+* [SoftHSM](http://trac.opendnssec.org/wiki/SoftHSM) is an software PKCS #11 token
 
-* cppssh a C++11 SSH library https://github.com/cdesjardins/cppssh
+* [Qt Creator](http://qt.nokia.com/products/developer-tools), an IDE for building Qt applications.
 
-* NetSieben's http://netsieben.com/products/ssh/
-  SSH library provides SSHv2 client connections for C++
-  applications, using botan for the crypto. (GPL or commercial)
+* [Monotone](http://monotone.ca/) distributed version control system
 
-* InSiTo http://www.flexsecure.eu/insito/index.html is a library
-  for ePassports based on botan which was commissioned by the German
-  Federal Office for Information Security.
+* [cppssh](https://github.com/cdesjardins/cppssh) is a C++11 SSH library 
 
-* QCA http://delta.affinix.com/qca/, the Qt Cryptographic
-  Architecture (part of KDE4) uses parts of botan as an embedded
-  crypto provider
-  http://quickgit.kde.org/?p=qca.git&a=tree&hb=master&f=src%2Fbotantools%2Fbotan
-  and also has a qca-botan plugin http://quickgit.kde.org/?p=qca.git&a=tree&hb=master&f=plugins%2Fqca-botan.
+* [QCA](https://userbase.kde.org/QCA), the Qt Cryptographic Architecture (part of KDE4) uses parts of botan as an embedded crypto provider
 
-* TCHead http://16s.us/TCHead/ is a utility for analyzing
-  TrueCrypt volume headers.
-
-* Octopod http://code.google.com/p/octopod/ is a
-  file sharing system.
-
-* Silverlock http://www.petroules.com/products/silverlock/
-  is a GPL password management tool for Windows, OS X, and Linux.
-
-* Publimark http://www.gleguelv.org/soft/publimark/index.html
-  is a tool for hiding messages in an audio file.
-
-* KeySafe http://therning.org/magnus/computer/keysafe,
-  a password application for GNOME
-
-* SuSE http://gcc.opensuse.org uses botan as part
-  of a test suite for the GCC optimizer.
-
-* Openbench http://www.exactcode.de/site/open_source/openbench/,
-  an open source benchmark suite, uses botan as a component.
-
-* VNCcrack http://www.randombit.net/code/vnccrack/
-  is a password cracker for the VNC authentication/response protocol.
-
-* Biboumi https://biboumi.louiz.org/ is an IRC gateway for XMPP.
-
-* RNP (https://github.com/riboseinc/rnp) is an OpenPGP library written in C.
+* [TCHead](http://16s.us/TCHead/) is a utility for analyzing TrueCrypt volume headers.
 
 Commercial Software
 --------------------------------------
 
-* VMware AirWatch (https://www.air-watch.com/downloads/open_source_license_AW-iOS-Content_4.9_GA.txt)
+* [Rohde & Schwarz Cybersecurity](https://cybersecurity.rohde-schwarz.com),
+  a German security software company, uses Botan in some of its products.
 
-* Cyclonis Password Manager (https://www.cyclonis.com/additional-terms-conditions-password-manager/)
+* [Rockwell Automation](http://literature.rockwellautomation.com/idc/groups/literature/documents/rm/1756-rm101_-en-p.pdf)
 
-* EnFocus PDFReview (http://www.enfocus.com/manuals/UserGuide/PDFReview/01/en-us/common/rev/concept/co_rev_thirdpartylicense.html)
+* [Mazda Infotainment system](http://mazdaenduseragreements-copyrights.com/files/LegalDisclosure.pdf)
 
-* 1qbit SDK (http://qdk.1qbit.com/documentation/requirements.html)
+* [Panasonic UConnect Infotainment system](ftp://ftp.panasonic.com/automotive/legal/UConnect_for_FCA_MY18.pdf)
 
-* Shimmercat HTTP/2 server https://www.shimmercat.com/en/info/open-source/
+* [IBM Netezza](https://www.ibm.com/support/knowledgecenter/en/SSULQD_7.1.0/com.ibm.nz.sqltk.doc/r_sqlext_fpe_encrypt_decrypt.html)
 
-* Bosch Video Managment System http://resource.boschsecurity.com/documents/Bosch_VMS_Open_Sourc_Application_note_enUS_20710840843.pdf
+* [Bosch Video Management System](http://resource.boschsecurity.com/documents/Bosch_VMS_Open_Sourc_Application_note_enUS_20710840843.pdf)
 
-* Balabit Shell Control Box https://www.balabit.com/documents/scb-latest-guides/en/scb-guide-install/html/appendix-licenses.html
+* [PSPDFKit for iOS and Android](https://pspdfkit.com/acknowledgements/ios/) is a PDF toolkit used in dozens of mobile applications.
 
-* PSPDFKit for iOS https://pspdfkit.com/acknowledgements/ios/
+* [VMware AirWatch](https://www.air-watch.com/downloads/open_source_license_AW-iOS-Content_4.9_GA.txt)
 
-* CA Agile Requirements Designer (https://docops.ca.com/ca-agile-requirements-designer/2-0/en/release-notes/acknowledgments-and-license-agreements)
+* [Cyclonis Password Manager](https://www.cyclonis.com/additional-terms-conditions-password-manager/)
 
-* A.O.M. Audio Plugins (http://doc.aom-factory.jp/plugins/manual.pdf)
+* [EnFocus PDFReview](http://www.enfocus.com/manuals/UserGuide/PDFReview/01/en-us/common/rev/concept/co_rev_thirdpartylicense.html)
 
-* Rockwell Automation http://literature.rockwellautomation.com/idc/groups/literature/documents/rm/1756-rm101_-en-p.pdf
+* [Silverlock](http://www.petroules.com/products/silverlock/) is a password management tool for OS X
 
-* Mazda Infotainment system http://mazdaenduseragreements-copyrights.com/files/LegalDisclosure.pdf
+* [1qbit SDK](http://qdk.1qbit.com/documentation/requirements.html)
 
-* Panasonic UConnect (ftp://ftp.panasonic.com/automotive/legal/UConnect_for_FCA_MY18.pdf)
+* [Shimmercat HTTP/2 server](https://www.shimmercat.com/en/info/open-source/)
 
-* IBM Netezza (https://www.ibm.com/support/knowledgecenter/en/SSULQD_7.1.0/com.ibm.nz.sqltk.doc/r_sqlext_fpe_encrypt_decrypt.html)
+* [Balabit Shell Control Box](https://www.balabit.com/documents/scb-latest-guides/en/scb-guide-install/html/appendix-licenses.html)
 
-* Hulu Desktop http://www.hulu.com/labs/hulu-desktop
-  http://download.hulu.com/HuluDesktop_ThirdPartyLicenses.txt
-
-* Hitman Pro http://www.surfright.nl/en is a malware
-  scanner for Windows.
-
-* Flying Lab Software http://www.burningsea.com, a Seattle based
-  game developer, uses botan as a part of their user authentication
-  process.
-
-* CryptoTE http://idlebox.net/2009/cryptote/ is a text editor
-  with integrated strong cryptography.
-
-* TextEgg http://www.textegg.com/ is an encrypted document editor.
-
-* Seagate http://www.seagate.com/www/en-us/support/downloads/
-  uses botan for the drive encryption in the Maxtor OneTouch III Mini
-  Edition hard drive.
-
-* E.V.E. Paradox http://www.entropicsoftware.com/eve/eve.html, a
-  suite of games for Windows.
-
-* Flume http://SaratogaData.com, a tool to securely and accurately move 
+* [Flume](http://SaratogaData.com), a tool to securely and accurately move 
   your distributed data at unprecedented speeds, uses Botan for encryption
   and hashing.
 
-* Rohde & Schwarz Cybersecurity https://cybersecurity.rohde-schwarz.com,
-  a German security software company, uses Botan in some of its products.
+* [CA Agile Requirements Designer](https://docops.ca.com/ca-agile-requirements-designer/2-0/en/release-notes/acknowledgments-and-license-agreements)
+
+* [Hitman Pro](http://www.surfright.nl/en) is a malware scanner for Windows.
+
+* [Flying Lab Software](http://www.burningsea.com), a Seattle based
+  game developer, uses botan as a part of their user authentication
+  process.
+
+* [CryptoTE](http://idlebox.net/2009/cryptote/) is a text editor
+  with integrated strong cryptography.
+
+* [TextEgg](http://www.textegg.com/) is an encrypted document editor.
 
 Research Projects
 -----------------------------------
 
-* "Efficient Implementation of Password-Based Authenticated Key Exchange from RLWE and Post-Quantum TLS"
-  (https://eprint.iacr.org/2017/1192) describes integrating a post-quantum secure PAKE scheme into Botan TLS
+* [Efficient Implementation of Password-Based Authenticated Key Exchange from RLWE and Post-Quantum TLS](https://eprint.iacr.org/2017/1192) describes integrating a post-quantum secure PAKE scheme into Botan TLS
 
-* A Unified Approach to Intra-Domain Security
-  http://www.csiir.ornl.gov/shue/research/securecom09.pdf
+* [A Unified Approach to Intra-Domain Security](https://www.computer.org/csdl/proceedings/cse/2009/3823/03/3823d219-abs.html)
   describes a system by researches from Oak Ridge National Lab and
   Indiana University that uses botan to secure ARP and DHCP.
 
-* CLL: A Cryptographic Link Layer for Local Area Networks
-  http://www.springerlink.com/content/c4681m76808l4621/ describes
-  a network encryption system using botan. (One of the coauthors, Yves
-  Jerschow, also contributed a number of optimizations to the
-  library).
+* [CLL: A Cryptographic Link Layer for Local Area Networks](http://www.springerlink.com/content/c4681m76808l4621/)
 
-* The system described in Enabling Intrusion Detection in IPsec
-  Protected IPv6 Networks Through Secret-key Sharing
-  http://www.dtic.mil/dtic/tr/fulltext/u2/a431510.pdf.
+* [Enabling Intrusion Detection in IPsec Protected IPv6 Networks Through Secret-key Sharing](http://www.dtic.mil/dtic/tr/fulltext/u2/a431510.pdf)
 
-* An experimental tamper detection system
-  http://www.cis.udel.edu/~hiper/passages/papers/jochenMILCOM03.pdf
-  designed by researchers from the University of Delaware and the US
-  Army Research Laboratory.
+* [A Framework for Tamper Detection Marking of Mobile Applications](http://www.cis.udel.edu/~hiper/passages/papers/jochenMILCOM03.pdf)
 
-* A prototype implementation of a telephony signal security system,
-  described in Prototyping and evaluation of TCAPsec
-  http://www.cs.kau.se/cs/education/courses/davddiss/Uppsatser_2007/D2007-04.pdf
-  by Kang Chung and Mathilda Gustafsson.
+* [Prototyping and evaluation of TCAPsec](http://www.cs.kau.se/cs/education/courses/davddiss/Uppsatser_2007/D2007-04.pdf)
