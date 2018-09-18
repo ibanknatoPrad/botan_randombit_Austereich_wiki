@@ -29,7 +29,7 @@ Open Source Software
 
 * [TCHead](http://16s.us/TCHead/) is a utility for analyzing TrueCrypt volume headers.
 
-Commercial Software
+Commercial Users
 --------------------------------------
 
 * [Rohde & Schwarz Cybersecurity](https://cybersecurity.rohde-schwarz.com),
@@ -46,6 +46,8 @@ Commercial Software
 * [Bosch Video Management System](http://resource.boschsecurity.com/documents/Bosch_VMS_Open_Sourc_Application_note_enUS_20710840843.pdf)
 
 * [PSPDFKit for iOS and Android](https://pspdfkit.com/acknowledgements/ios/) is a PDF toolkit used in dozens of mobile applications.
+
+* [Kodak Alaris Capture Pro](https://legal.kodakalaris.com/-/media/files/legal/third-party-components-and-provider-terms.pdf?la=en-us)
 
 * [VMware AirWatch](https://www.air-watch.com/downloads/open_source_license_AW-iOS-Content_4.9_GA.txt)
 
