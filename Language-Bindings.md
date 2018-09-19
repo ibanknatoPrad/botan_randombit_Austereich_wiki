@@ -15,3 +15,7 @@ Though Botan is written in C++ it is possible to use it from some other language
 * [PHP](https://github.com/kisscool-fr/php_botan)
 * [Perl](https://github.com/randombit/botan/tree/9474deacd67433908dec38a409892a334aab679d/src/contrib/perl-xs)
 * [Node.js](https://github.com/justinfreitag/node-botan)
+
+### Wanted
+* Chicken Scheme
+* JNI
