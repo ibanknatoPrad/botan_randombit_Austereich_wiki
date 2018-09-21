@@ -19,3 +19,4 @@ SSH
 -------
 
 * [cppssh](https://github.com/cdesjardins/cppssh) is a C++11 SSH library 
+* [Qssh](https://github.com/lvklabs/Qssh) is an SSH/SFTP library for Qt
