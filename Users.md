@@ -21,6 +21,10 @@ Open Source Software
 
 * [Qt Creator](http://qt.nokia.com/products/developer-tools), an IDE for building Qt applications.
 
+* [QSsh](https://github.com/lvklabs/Qssh) is a SSH/SFTP library
+
+* [QOwnNotes](https://github.com/pbek/QOwnNotes) is a notepad tool
+
 * [Monotone](http://monotone.ca/) distributed version control system
 
 * [cppssh](https://github.com/cdesjardins/cppssh) is a C++11 SSH library 
