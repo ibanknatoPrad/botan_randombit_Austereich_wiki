@@ -13,7 +13,7 @@ PKCS11
 PGP
 ---------
 
-* [RNP](https://github.com/riboseinc/rnp) is an OpenPGP library written in C
+* [RNP](https://github.com/riboseinc/rnp) is an OpenPGP library
 
 SSH
 -------
