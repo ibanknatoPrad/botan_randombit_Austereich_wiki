@@ -5,6 +5,8 @@ Networking
 
 * [tls-socket](https://github.com/theom/tls-socket) is a Botan TLS socket wrapper that provides a drop-in replacement for the regular POSIX read and write calls.
 
+* [SFNUL](https://github.com/binary1248/SFNUL) Simple and Fast Network Utility Library
+
 PKCS11
 ------------------
 
