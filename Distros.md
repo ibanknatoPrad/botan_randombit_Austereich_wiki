@@ -1,4 +1,4 @@
-Some package distributions include Botan. However they are sometimes out of date, so use caution
+Most major package distributions include Botan. However they are occasionally out of date, so use caution
 
 * [Vcpkg](https://github.com/Microsoft/vcpkg/tree/master/ports/botan)
 * [Homebrew](http://brewformulas.org/Botan)
