@@ -39,6 +39,8 @@ Commercial Users
 * [Rohde & Schwarz Cybersecurity](https://cybersecurity.rohde-schwarz.com),
   a German security software company, uses Botan in some of its products.
 
+* Cisco [https://www.cisco.com/c/dam/en_us/about/doing_business/open_source/docs/Communicator_Desktop_2260_v10-3.pdf](Communicator Desktop) and [https://www.cisco.com/c/dam/en_us/about/doing_business/open_source/docs/Stealthwatch_6_8_2_v1_0.pdf](StealthWatch Enterprise)
+
 * [Rockwell Automation](http://literature.rockwellautomation.com/idc/groups/literature/documents/rm/1756-rm101_-en-p.pdf)
 
 * [Mazda Infotainment system](http://mazdaenduseragreements-copyrights.com/files/LegalDisclosure.pdf)
@@ -58,6 +60,8 @@ Commercial Users
 * [Cyclonis Password Manager](https://www.cyclonis.com/additional-terms-conditions-password-manager/)
 
 * [EnFocus PDFReview](http://www.enfocus.com/manuals/UserGuide/PDFReview/01/en-us/common/rev/concept/co_rev_thirdpartylicense.html)
+
+* [One Identity Safeguard for Privileged Sessions](https://support.oneidentity.com/technical-documents/one-identity-safeguard-for-privileged-sessions/5.8.0/administration-guide/110)
 
 * [Silverlock](http://www.petroules.com/products/silverlock/) is a password management tool for OS X
 
