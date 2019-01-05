@@ -15,6 +15,8 @@ PKCS11
 PGP
 ---------
 
+* [libEncryptMsg](https://github.com/evpo/libencryptmsg) as a C++ OpenPGP library
+
 * [RNP](https://github.com/riboseinc/rnp) is an OpenPGP library
 
 SSH
