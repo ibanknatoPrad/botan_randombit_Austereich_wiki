@@ -15,7 +15,7 @@ Open Source Software
 
 * [Kaa](https://github.com/kaaproject/kaa) is an open-source IoT platform
 
-* [libQtShadowsocks](https://github.com/shadowsocks/libQtShadowsocks), [shadowsocks-qt5](https://github.com/shadowsocks/shadowsocks-qt5) and [https://github.com/lolimay/shadowsocks-deepin] are interfaces to the shadowsocks proxy system
+* [libQtShadowsocks](https://github.com/shadowsocks/libQtShadowsocks), [shadowsocks-qt5](https://github.com/shadowsocks/shadowsocks-qt5) and [shadowsocks-deepin](https://github.com/lolimay/shadowsocks-deepin) are interfaces to the shadowsocks proxy system
 
 * [SoftHSM](http://trac.opendnssec.org/wiki/SoftHSM) is an software PKCS #11 token
 
