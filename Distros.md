@@ -1,7 +1,7 @@
 Most major package distributions include Botan. However they are occasionally out of date, so use caution
 
 * [Vcpkg](https://github.com/Microsoft/vcpkg/tree/master/ports/botan)
-* [Homebrew](http://brewformulas.org/Botan)
+* [Homebrew](https://formulae.brew.sh/formula/botan)
 * [Debian](https://packages.debian.org/search?keywords=libbotan)
 * [Ubuntu](https://packages.ubuntu.com/search?keywords=botan)
 * [Fedora](https://apps.fedoraproject.org/packages/botan2)
