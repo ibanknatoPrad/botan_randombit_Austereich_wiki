@@ -104,3 +104,5 @@ Research Projects
 * [A Framework for Tamper Detection Marking of Mobile Applications](http://www.cis.udel.edu/~hiper/passages/papers/jochenMILCOM03.pdf)
 
 * [Prototyping and evaluation of TCAPsec](http://www.cs.kau.se/cs/education/courses/davddiss/Uppsatser_2007/D2007-04.pdf)
+
+* [The Onion Name System: Tor-powered Decentralized DNS for Tor Onion Services](https://petsymposium.org/2017/papers/issue1/paper05-2017-1-source.pdf)
