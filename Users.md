@@ -39,6 +39,8 @@ Commercial Users
 * [Rohde & Schwarz Cybersecurity](https://cybersecurity.rohde-schwarz.com),
   a German security software company, uses Botan in some of its products.
 
+* One-Way Automation's [OPC UA SDK](https://onewayautomation.com/opcua-sdk-docs/html/introduction.html)
+
 * Cisco [Communicator Desktop](https://www.cisco.com/c/dam/en_us/about/doing_business/open_source/docs/Communicator_Desktop_2260_v10-3.pdf) and [StealthWatch Enterprise](https://www.cisco.com/c/dam/en_us/about/doing_business/open_source/docs/Stealthwatch_6_8_2_v1_0.pdf)
 
 * [Rockwell Automation](http://literature.rockwellautomation.com/idc/groups/literature/documents/rm/1756-rm101_-en-p.pdf)
