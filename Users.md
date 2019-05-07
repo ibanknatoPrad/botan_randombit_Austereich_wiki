@@ -31,7 +31,7 @@ Open Source Software
 
 * [QCA](https://userbase.kde.org/QCA), the Qt Cryptographic Architecture (part of KDE4) uses parts of botan as an embedded crypto provider
 
-* [TCHead](http://16s.us/TCHead/) is a utility for analyzing TrueCrypt volume headers.
+* [TCHead](https://github.com/hydranix/tchead) is a utility for analyzing TrueCrypt volume headers.
 
 Commercial Users
 --------------------------------------
