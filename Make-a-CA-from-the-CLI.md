@@ -101,8 +101,11 @@ You're on your own for attaching the site key & cert to your servers, but we can
 This will make other CLI applications like curl and wget happy.
 
 `sudo mkdir -p /usr/local/share/ca-certificates/exampleco`
+
 `sudo cp cacert.pem /usr/local/share/ca-certificates/exampleco/exampleco-root.crt`
+
 `sudo cp intcert.pem /usr/local/share/ca-certificates/exampleco/exampleco-int.crt`
+
 `sudo update-ca-certificates`
 
 ### Add the root and intermediate certificates to Firefox
