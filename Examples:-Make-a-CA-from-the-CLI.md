@@ -26,11 +26,11 @@ And then verify that the password works:
 ### Create the root CA certificate
 Don't forget to change the name and country!  The path limit is 2 to allow for intermediate CAs, followed by end user certificates.
 
-'botan gen_self_signed cakey.pem "exampleco root CA" --country=AQ --organization="exampleco" --ca --path-limit=2 --days=7300 --key-pass=$(cat capassword.txt) > cacert.pem'
+`botan gen_self_signed cakey.pem "exampleco root CA" --country=AQ --organization="exampleco" --ca --path-limit=2 --days=7300 --key-pass=$(cat capassword.txt) > cacert.pem`
 
 View the new cert's info:
 
-'botan cert_info cacert.pem'
+`botan cert_info cacert.pem`
 
 ### Protect the new files
 To avoid any "oops" situations while playing around with these commands, go ahead and protect your work:
@@ -90,6 +90,10 @@ Once again, don't forget to change out the values for your own.
 
 ### Sign the site's request
 `botan sign_cert --ca-key-pass=$(cat intpassword.txt) --duration=366 intcert.pem intkey.pem sitereq.pem > sitecert.pem`
+
+And view it:
+
+`botan cert_info sitecert.pem`
 
 ### Write protect the site's info
 `chmod 400 sitekey.pem & chmod 444 sitecert.pem`
