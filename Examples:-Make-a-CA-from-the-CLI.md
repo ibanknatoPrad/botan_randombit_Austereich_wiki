@@ -35,7 +35,7 @@ View the new cert's info:
 ### Protect the new files
 To avoid any "oops" situations while playing around with these commands, go ahead and protect your work:
 
-`chmod 400 capassword.txt && chmod 400 cakey.pem & chmod 444 cacert.pem`
+`chmod 400 capassword.txt & chmod 400 cakey.pem & chmod 444 cacert.pem`
 
 # Create the Intermediate CA
 To follow good practices, let's make an intermediate CA.
