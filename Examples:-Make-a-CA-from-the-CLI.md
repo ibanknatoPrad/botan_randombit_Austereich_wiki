@@ -8,7 +8,7 @@ This will generate a root certificate that should last until about 2040, which i
 ### Create the root CA's password
 If you want a random password, try running:
 
-`botan rng --format=base64 100 | cut -c ${RANDOM:0:2} > capassword.txt`
+`botan rng --format=base64 100 | cut -c -${RANDOM:0:2} > capassword.txt`
 
 Or simply:
 
@@ -43,7 +43,7 @@ To follow good practices, let's make an intermediate CA.
 ### Create the intermediate's password
 Similar to the above, make a random one:
 
-`botan rng --format=base64 100 | cut -c ${RANDOM:0:2} > intpassword.txt`
+`botan rng --format=base64 100 | cut -c -${RANDOM:0:2} > intpassword.txt`
 
 Or simply:
 
