@@ -5,6 +5,8 @@ Open Source Software
 
 * [strongSwan](https://www.strongswan.org/) IPsec software
 
+* [PowerDNS](https://www.powerdns.com/]) DNS server
+
 * [Biboumi](https://biboumi.louiz.org/) is an IRC gateway for XMPP.
 
 * [RNP](https://github.com/riboseinc/rnp) is an OpenPGP library.
