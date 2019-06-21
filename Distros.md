@@ -1,5 +1,8 @@
 Most major package distributions include Botan. However they are occasionally out of date, so use caution
 
+[![Packaging status](https://repology.org/badge/vertical-allrepos/botan.svg)](https://repology.org/project/botan/versions)
+
+
 * [Vcpkg](https://github.com/Microsoft/vcpkg/tree/master/ports/botan)
 * [Homebrew](https://formulae.brew.sh/formula/botan)
 * [Debian](https://packages.debian.org/search?keywords=libbotan)
