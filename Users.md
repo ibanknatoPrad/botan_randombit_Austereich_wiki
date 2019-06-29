@@ -1,5 +1,13 @@
 Botan has been used in all kinds of projects. Feel free to add a link and description of yours if you like.
 
+Government Projects
+-----------------------
+
+The [German Federal Office for Information Security](https://www.bsi.bund.de/EN) has sponsored a sequence of improvement projects including
+
+* In 2008 the InSiTo (Innovative Security Tokens) project added the original ECDSA/ECDH implementation among other features. This was used in the context of a European machine readable travel document system.
+* Starting in 2015, "Sichere Implementierung einer allgemeinen Kryptobibliothek" (Secure Implementation of a General Cryptographic Library) added many features, resolved bugs and side channels, and sponsored an [audit](http://botan.randombit.net/releases/audit_1.11.18.pdf). For more details see [BSI's page about the project](https://www.bsi.bund.de/DE/Themen/Kryptografie_Kryptotechnologie/Kryptografie/Kryptobibliothek/kryptobibliothek_node.html)
+
 Open Source Software
 --------------------------
 
@@ -40,6 +48,8 @@ Commercial Users
 
 * [Rohde & Schwarz Cybersecurity](https://cybersecurity.rohde-schwarz.com),
   a German security software company, uses Botan in some of its products.
+
+* [NeXenio BDrive](https://www.nexenio.com/en/bdrive/) is an end to end encrypted file sharing and collaboration tool.
 
 * One-Way Automation's [OPC UA SDK](https://onewayautomation.com/opcua-sdk-docs/html/introduction.html)
 
