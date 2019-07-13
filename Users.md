@@ -17,6 +17,10 @@ Open Source Software
 
 * [Biboumi](https://biboumi.louiz.org/) is an IRC gateway for XMPP.
 
+* [libQtShadowsocks](https://github.com/shadowsocks/libQtShadowsocks), [shadowsocks-qt5](https://github.com/shadowsocks/shadowsocks-qt5) and [shadowsocks-deepin](https://github.com/lolimay/shadowsocks-deepin) are interfaces to the shadowsocks proxy system
+
+* [ISC KEA](http://kea.isc.org/) DHCP server
+
 * [RNP](https://github.com/riboseinc/rnp) is an OpenPGP library.
 
 * [NeoPG](https://neopg.io/) the "multiversal crypto engine", is an opinionated fork of GnuPG written in C++
@@ -24,8 +28,6 @@ Open Source Software
 * [ISC KEA](http://kea.isc.org/) DHCP server
 
 * [Kaa](https://github.com/kaaproject/kaa) is an open-source IoT platform
-
-* [libQtShadowsocks](https://github.com/shadowsocks/libQtShadowsocks), [shadowsocks-qt5](https://github.com/shadowsocks/shadowsocks-qt5) and [shadowsocks-deepin](https://github.com/lolimay/shadowsocks-deepin) are interfaces to the shadowsocks proxy system
 
 * [SoftHSM](http://trac.opendnssec.org/wiki/SoftHSM) is an software PKCS #11 token
 
@@ -51,11 +53,7 @@ Commercial Users
 
 * [NeXenio BDrive](https://www.nexenio.com/en/bdrive/) is an end to end encrypted file sharing and collaboration tool.
 
-* One-Way Automation's [OPC UA SDK](https://onewayautomation.com/opcua-sdk-docs/html/introduction.html)
-
-* Cisco [Communicator Desktop](https://www.cisco.com/c/dam/en_us/about/doing_business/open_source/docs/Communicator_Desktop_2260_v10-3.pdf) and [StealthWatch Enterprise](https://www.cisco.com/c/dam/en_us/about/doing_business/open_source/docs/Stealthwatch_6_8_2_v1_0.pdf)
-
-* [Rockwell Automation](http://literature.rockwellautomation.com/idc/groups/literature/documents/rm/1756-rm101_-en-p.pdf)
+* [PSPDFKit for iOS and Android](https://pspdfkit.com/acknowledgements/ios/) is a PDF toolkit used in dozens of mobile applications.
 
 * [Mazda Infotainment system](http://mazdaenduseragreements-copyrights.com/files/LegalDisclosure.pdf)
 
@@ -65,7 +63,11 @@ Commercial Users
 
 * [Bosch Video Management System](http://resource.boschsecurity.com/documents/Bosch_VMS_Open_Sourc_Application_note_enUS_20710840843.pdf)
 
-* [PSPDFKit for iOS and Android](https://pspdfkit.com/acknowledgements/ios/) is a PDF toolkit used in dozens of mobile applications.
+* One-Way Automation's [OPC UA SDK](https://onewayautomation.com/opcua-sdk-docs/html/introduction.html)
+
+* Cisco [Communicator Desktop](https://www.cisco.com/c/dam/en_us/about/doing_business/open_source/docs/Communicator_Desktop_2260_v10-3.pdf) and [StealthWatch Enterprise](https://www.cisco.com/c/dam/en_us/about/doing_business/open_source/docs/Stealthwatch_6_8_2_v1_0.pdf)
+
+* [Rockwell Automation](http://literature.rockwellautomation.com/idc/groups/literature/documents/rm/1756-rm101_-en-p.pdf)
 
 * [Kodak Alaris Capture Pro](https://legal.kodakalaris.com/-/media/files/legal/third-party-components-and-provider-terms.pdf?la=en-us)
 
