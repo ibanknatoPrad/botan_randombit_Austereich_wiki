@@ -26,8 +26,6 @@ Open Source Software
 
 * [NeoPG](https://neopg.io/) the "multiversal crypto engine", is an opinionated fork of GnuPG written in C++
 
-* [ISC KEA](http://kea.isc.org/) DHCP server
-
 * [Kaa](https://github.com/kaaproject/kaa) is an open-source IoT platform
 
 * [SoftHSM](http://trac.opendnssec.org/wiki/SoftHSM) is an software PKCS #11 token
