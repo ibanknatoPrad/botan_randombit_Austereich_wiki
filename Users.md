@@ -7,7 +7,7 @@ The [German Federal Office for Information Security](https://www.bsi.bund.de/EN)
 
 * In 2008 the InSiTo (Innovative Security Tokens) project added the original ECDSA/ECDH implementation among other features. This was used in the context of a European machine readable travel document system.
 * Starting in 2015, "Sichere Implementierung einer allgemeinen Kryptobibliothek" (Secure Implementation of a General Cryptographic Library) added many features, resolved bugs and side channels, and sponsored an [audit](http://botan.randombit.net/releases/audit_1.11.18.pdf). For more details see [BSI's page about the project](https://www.bsi.bund.de/DE/Themen/Kryptografie_Kryptotechnologie/Kryptografie/Kryptobibliothek/kryptobibliothek_node.html)
-* Starting in 2020, "Kryptobibliothek Botan: Langlebige Sicherheit für IT-Anwendungen und Dienste" (Botan crypto library: Long-lasting security for IT applications and services) is a project to make additional post-quantum secure algorithms available in the library.
+* Starting in 2020, "(Kryptobibliothek Botan: Langlebige Sicherheit für IT-Anwendungen und Dienste)[https://www.forschung-it-sicherheit-kommunikationssysteme.de/projekte/kbls]" (Botan crypto library: Long-lasting security for IT applications and services) is a project to make additional post-quantum secure algorithms available in the library.
 
 Open Source Software
 --------------------------
