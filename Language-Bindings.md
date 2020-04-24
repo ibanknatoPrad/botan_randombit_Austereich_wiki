@@ -8,6 +8,7 @@ Though Botan is written in C++ it is possible to use it from some other language
 * [Rust](https://crates.io/crates/botan)
 
 ### Experimental/Work In Progress
+* [Java](https://github.com/yaziza/botanj)
 * [OCaml](https://github.com/randombit/botan-ocaml)
 
 ### Abandoned?
@@ -18,4 +19,3 @@ Though Botan is written in C++ it is possible to use it from some other language
 
 ### Wanted
 * Chicken Scheme
-* JNI
