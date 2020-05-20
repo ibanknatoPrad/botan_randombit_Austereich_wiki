@@ -10,6 +10,10 @@
 
 `dnf install botan2`
 
+## Gentoo
+
+`emerge dev-libs/botan`
+
 ## Alpine
 
 `apk add botan`
