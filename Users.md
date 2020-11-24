@@ -25,8 +25,6 @@ Open Source Software
 
 * [RNP](https://github.com/riboseinc/rnp) is an OpenPGP library.
 
-* [NeoPG](https://neopg.io/) the "multiversal crypto engine", is an opinionated fork of GnuPG written in C++
-
 * [Kaa](https://github.com/kaaproject/kaa) is an open-source IoT platform
 
 * [SoftHSM](http://trac.opendnssec.org/wiki/SoftHSM) is an software PKCS #11 token
