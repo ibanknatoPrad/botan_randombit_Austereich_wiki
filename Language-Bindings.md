@@ -19,3 +19,4 @@ Though Botan is written in C++ it is possible to use it from some other language
 
 ### Wanted
 * Chicken Scheme
+* Swift
