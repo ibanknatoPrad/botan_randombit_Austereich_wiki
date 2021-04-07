@@ -25,7 +25,7 @@ Open Source Software
 
 * [ISC KEA](http://kea.isc.org/) DHCP server
 
-* [RNP](https://github.com/riboseinc/rnp) is an OpenPGP library.
+* [RNP](https://github.com/riboseinc/rnp) is an OpenPGP library used in the Thunderbird email client.
 
 * [Kaa](https://github.com/kaaproject/kaa) is an open-source IoT platform
 
