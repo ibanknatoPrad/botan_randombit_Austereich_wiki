@@ -11,6 +11,8 @@ The [German Federal Office for Information Security](https://www.bsi.bund.de/EN)
 
 Open Source Software
 --------------------------
+* [KeepassXC](https://keepassxc.org/) password manager
+
 * [Arsenic](https://github.com/Antidote1911/Arsenic) C++/Qt5 application to encrypt symmetrically Files and text, hash calculator, and password generator.
 
 * [strongSwan](https://www.strongswan.org/) IPsec software
