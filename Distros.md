@@ -4,7 +4,7 @@
 
 ## Debian/Ubuntu
 
-`apt-get add botan`
+`apt-get install botan`
 
 ## Fedora
 
