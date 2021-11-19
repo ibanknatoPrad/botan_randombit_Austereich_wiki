@@ -7,6 +7,7 @@ Though Botan is written in C++ it is possible to use it from some other language
 * [Ruby](https://github.com/riboseinc/ruby-botan)
 * [Rust](https://crates.io/crates/botan)
 * [Haskell](http://hackage.haskell.org/package/Z-Botan)
+* [Odin](https://github.com/odin-lang/Odin/tree/master/vendor/botan)
 
 ### Experimental/Work In Progress
 * [Java](https://github.com/yaziza/botanj)
