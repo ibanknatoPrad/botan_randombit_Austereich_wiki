@@ -3,11 +3,12 @@ Botan has been used in all kinds of projects. Feel free to add a link and descri
 Government Projects
 -----------------------
 
-The [German Federal Office for Information Security](https://www.bsi.bund.de/EN) has sponsored a sequence of improvement projects including
+The [German Federal Office for Information Security (BSI)](https://www.bsi.bund.de/EN) has sponsored a sequence of improvement projects including
 
 * In 2008 the InSiTo (Innovative Security Tokens) project added the original ECDSA/ECDH implementation among other features. This was used in the context of a European machine readable travel document system.
 * Starting in 2015, "Sichere Implementierung einer allgemeinen Kryptobibliothek" (Secure Implementation of a General Cryptographic Library) added many features, resolved bugs and side channels, and sponsored an [audit](http://botan.randombit.net/releases/audit_1.11.18.pdf). For more details see [BSI's page about the project](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Informationen-und-Empfehlungen/Kryptografie/Kryptobibliothek-Botan/kryptobibliothek-botan_node.html)
 * Starting in 2020, [Kryptobibliothek Botan: Langlebige Sicherheit für IT-Anwendungen und Dienste](https://www.forschung-it-sicherheit-kommunikationssysteme.de/projekte/kbls) (Botan crypto library: Long-lasting security for IT applications and services) is a project to make additional post-quantum secure algorithms available in the library. Another page in English about KBLS project https://www.cryptoeng.de/aisec/projects/kbls/
+* Starting in 2022, Pflege und Weiterentwicklung der Kryptobibliothek Botan (Maintenance and enhancements to the Botan crypto library) is a BSI project to add more post-quantum secure algorithms to the library, especially those standardized by NIST, implement a hybrid key exchange in TLS, as well as to keep Botan up-to-date with BSI's technical guidelines.
 
 Open Source Software
 --------------------------
