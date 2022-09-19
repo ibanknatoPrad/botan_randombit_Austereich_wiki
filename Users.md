@@ -32,7 +32,7 @@ Open Source Software
 
 * [SoftHSM](http://trac.opendnssec.org/wiki/SoftHSM) is an software PKCS #11 token
 
-* [Qt Creator](http://qt.nokia.com/products/developer-tools), an IDE for building Qt applications.
+* [Qt Creator](https://www.qt.io/product/development-tools), an IDE for building Qt applications.
 
 * [QSsh](https://github.com/lvklabs/Qssh) is a SSH/SFTP library
 
