@@ -12,13 +12,13 @@ The [German Federal Office for Information Security (BSI)](https://www.bsi.bund.
 
 Open Source Software
 --------------------------
-* [KeePassXC](https://keepassxc.org/) password manager
+* [KeePassXC](https://keepassxc.org/) Fork of the well-known KeePass password manager
 
 * [Arsenic](https://github.com/Antidote1911/Arsenic) C++/Qt5 application to encrypt symmetrically Files and text, hash calculator, and password generator.
 
-* [strongSwan](https://www.strongswan.org/) IPsec software
+* [strongSwan](https://www.strongswan.org/) IPSec software
 
-* [PowerDNS](https://www.powerdns.com/]) DNS server
+* [PowerDNS](https://www.powerdns.com/) DNS server
 
 * [Biboumi](https://biboumi.louiz.org/) is an IRC gateway for XMPP.
 
@@ -30,7 +30,7 @@ Open Source Software
 
 * [Kaa](https://github.com/kaaproject/kaa) is an open-source IoT platform
 
-* [SoftHSM](http://trac.opendnssec.org/wiki/SoftHSM) is an software PKCS #11 token
+* [SoftHSM](https://www.opendnssec.org/softhsm/) is a software PKCS #11 token
 
 * [Qt Creator](https://www.qt.io/product/development-tools), an IDE for building Qt applications.
 
@@ -49,7 +49,7 @@ Open Source Software
 Commercial Users
 --------------------------------------
 
-* [Rohde & Schwarz Cybersecurity](https://cybersecurity.rohde-schwarz.com),
+* [Rohde & Schwarz Cybersecurity](https://www.rohde-schwarz.com/cybersecurity),
   a German security software company, uses Botan in some of its products.
 
 * [NeXenio BDrive](https://www.nexenio.com/en/bdrive/) is an end to end encrypted file sharing and collaboration tool.
